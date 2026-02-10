@@ -7,7 +7,7 @@ Field Instrument (WFI) on the Nancy Grace Roman Space Telescope
 (pronounced roman-eye-sim, stylized Roman I-Sim). It uses
 [Galsim](https://galsim-developers.github.io/GalSim/_build/html/overview.html)
 to render astronomical scenes,
-[WebbPSF](https://galsim-developers.github.io/GalSim/_build/html/overview.html)
+[STPSF](https://stpsf.readthedocs.io/en/latest/)
 to model the point spread function, and
 [CRDS](https://github.com/spacetelescope/crds) to access the
 calibration information needed to produce realistic WFI images.
